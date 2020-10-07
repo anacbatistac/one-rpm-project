@@ -12,7 +12,6 @@ function AgendaCard(props) {
   const item = props.info;
   const index = props.index;
 
-
   const [activeIndex, setActiveIndex] = useState(null);
 
   const handleChange = (index) => {
@@ -57,20 +56,20 @@ function AgendaCard(props) {
               <p>{item.person}</p>
             </div>
             <div className="agenda__card-icons">
-              <img
+              {/* <img
                 className={activeIndex === index ? 'arrowdown' : 'arrowup'}
                 style={{ cursor: 'pointer' }}
                 onClick={() => handleChange(index)}
                 src={arrowDown}
                 alt="arrow down"
-              />
+              /> */}
 
               <a href={item.calendar} target="_blank" rel="noopener noreferrer">
                 <img src={addCalendar} alt="add to calendar" />
               </a>
             </div>
           </div>
-          {activeIndex === index ? (
+          {/* {activeIndex === index ? (
             <div
               className="agenda__toggle expand-animate collapse-animate"
               style={{ backgroundColor: `${item.color}` }}
@@ -79,7 +78,7 @@ function AgendaCard(props) {
             </div>
           ) : (
             ''
-          )}
+          )} */}
         </div>
       </div>
     </div>

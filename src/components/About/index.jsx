@@ -31,25 +31,25 @@ function About() {
           </p>
           <p>
             Com a apresentação de dois hosts diretamente do nosso estúdio recém lançado, todos os
-            conteúdos serão transmitidos AO VIVO no nosso canal de {' '}
+            conteúdos serão transmitidos AO VIVO <b>no nosso canal de {' '}
             <a href="https://www.youtube.com/channel/UCEjZPeHi44BbX_g9hfJUlHQ" target="_blank" rel="noopener noreferrer">
               YouTube
             </a>
-            {' '}e <b>não ficarão disponíveis depois</b>, ou seja, será uma experiência única e sem
+            {' '}e não ficarão disponíveis depois</b>, ou seja, será uma experiência única e sem
             direito a repeat. Inscreva-se já e faça a sua agenda conforme a legenda.
           </p>
         </div>
         <div className="about__right">
           
-       
-          <div className="about__fase">
-            <img src={quadrado} alt="quadrado azul" />
+        <div className="about__fase">
+            <img src={bola} alt="Círculo laranja" />
             <div>
-              <h4 style={{ color: '#0091F1' }}>Básico</h4>
-              <p>Abordagem mais inicial sobre o tema, os conteúdos com essa classificação tendem a ser mais didáticos e amplos construtivamente.
- </p>
+              <h4 style={{ color: '#FF7A3C' }}>Avançado</h4>
+              <p>No terceiro nível, os conteúdos com essa classificação entregam discussões mais aprofundadas e com direcionamentos mais específicos.
+</p>
             </div>
-          </div>
+            </div>
+         
           <div className="about__fase">
             <img src={triangulo} alt="Triângulo rosa" />
             <div>
@@ -58,14 +58,15 @@ function About() {
 </p>
             </div>
           </div>
-          <div className="about__fase">
-            <img src={bola} alt="Círculo laranja" />
+       
+            <div className="about__fase">
+            <img src={quadrado} alt="quadrado azul" />
             <div>
-              <h4 style={{ color: '#FF7A3C' }}>Avançado</h4>
-              <p>No terceiro nível, os conteúdos com essa classificação entregam discussões mais aprofundadas e com direcionamentos mais específicos.
-</p>
+              <h4 style={{ color: '#0091F1' }}>Básico</h4>
+              <p>Abordagem mais inicial sobre o tema, os conteúdos com essa classificação tendem a ser mais didáticos e amplos construtivamente.
+ </p>
             </div>
-            </div>
+          </div>
         </div>
       </div>
     </div>

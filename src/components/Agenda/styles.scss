@@ -45,7 +45,6 @@
       img {
         width: 2em;
       }
-  
     }
     &-right {
       width: 40vw;
@@ -80,10 +79,6 @@
         width: 20em;
         // margin-top: 0.6em;
       }
-
-
-
-      
     }
     &-icons {
       display: flex;
@@ -432,7 +427,7 @@
       justify-content: center !important;
       font-size: 0.6em !important;
       width: 100vw !important;
-      margin: 0 auto!important;
+      margin: 0 auto !important;
       // text-align: center;
       input {
         margin: 0.5em !important;
@@ -456,7 +451,6 @@
       span {
         font-size: 0.7em;
         border: 3px solid $color-dark;
-
       }
     }
     .card {
@@ -512,7 +506,6 @@
         img {
           width: 18em;
         }
-
       }
     }
     &__fase {
@@ -532,11 +525,10 @@
       width: 90vw;
       .agendaes-img {
         width: 35vw;
-        margin-left:2em;
+        margin-left: 2em;
       }
     }
 
-  
     &__card {
       display: flex;
       flex-direction: column;
@@ -546,7 +538,7 @@
       padding: 1em 2em;
       border-radius: 8px;
       margin: 0 !important;
-  
+
       &-left {
         display: flex;
         flex-direction: column;
@@ -567,8 +559,7 @@
         }
       }
       &-right {
-    
-        width:60vw;
+        width: 60vw;
         text-align: center;
         margin: 2em auto;
         padding: 0;
@@ -576,12 +567,12 @@
         h2 {
           font-size: 1em;
         }
-  
+
         p {
           font-size: 0.8em;
         }
       }
-  
+
       &-icons {
         display: flex;
         flex-direction: row-reverse;
@@ -606,7 +597,7 @@
     &__fase {
       display: flex;
       align-items: center;
-  
+
       span {
         text-transform: uppercase;
         font-size: 0.8em;
@@ -617,13 +608,13 @@
         // margin-left: -2.5em;
       }
     }
-  
+
     &__toggle {
-      width: 90vw;
+      width: 80vw;
       padding: 1em 3em;
       border-radius: 0 0 8px 8px;
       margin-top: -0.5em;
-  
+
       a {
         margin: 1em;
       }
@@ -636,7 +627,7 @@
         vertical-align: bottom;
       }
     }
-  
+
     &__filters {
       display: flex;
       flex-direction: column;
@@ -661,8 +652,8 @@
         align-items: flex-start !important;
         justify-content: flex-start !important;
         font-size: 0.6em !important;
-        width:70vw !important;
-        margin: 0  !important;
+        width: 70vw !important;
+        margin: 0 !important;
         // text-align: center;
         input {
           margin: 0.5em !important;
@@ -672,7 +663,7 @@
           height: 8px;
           top: 0px;
         }
-  
+
         input[type='radio']:checked:after {
           width: 8px;
           height: 8px;

@@ -11,13 +11,18 @@ function Section() {
   return (
     <div className="section">
       <div className="section__container">
-        {/* <div className="section__video">
-        <video controls >
-      <source src={video} type="video/mp4"/>
-</video>
-        </div> */}
+        <div className="section__video">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/ba8gYu1CEbY"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
         {/* <div className="section__dados"> */}
-          {/* <div className="section__item">
+        {/* <div className="section__item">
             <h4>50</h4>
             <span>especialistas referências do mercado</span>
           </div>
@@ -45,7 +50,6 @@ function Section() {
             target="_blank"
             rel="noopener noreferrer"
             className="btn"
-          
           >
             Regístrate aquí
           </a>

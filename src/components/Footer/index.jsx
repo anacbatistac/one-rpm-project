@@ -38,8 +38,8 @@ function Footer() {
           </div>
           <div className="social">
           <a href="https://www.youtube.com/channel/UCEjZPeHi44BbX_g9hfJUlHQ" target="_blank" rel="noopener noreferrer"><Icon width={20} icon={youtubeIcon} /></a>
-          <a href="https://www.instagram.com/onerpm/" target="_blank" rel="noopener noreferrer"><Icon width={20} icon={instagramIcon} /></a>
-          <a href="https://twitter.com/onerpm" target="_blank" rel="noopener noreferrer"><Icon width={20} icon={twitterIcon} /></a>
+          <a href="www.instagram.com/onerpmbr" target="_blank" rel="noopener noreferrer"><Icon width={20} icon={instagramIcon} /></a>
+          <a href="https://twitter.com/onerpmbr" target="_blank" rel="noopener noreferrer"><Icon width={20} icon={twitterIcon} /></a>
           <a href="https://www.facebook.com/onerpm" target="_blank" rel="noopener noreferrer"><Icon width={20} icon={facebookIcon} /></a>
           </div>
         </div>
