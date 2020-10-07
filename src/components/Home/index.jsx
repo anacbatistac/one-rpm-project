@@ -15,7 +15,7 @@ function Home() {
           <img className="logo" src={logo} alt="ONErpm" />
           <h1>EVENTS</h1>
         </div>
-       <div className="home__sections">
+        <div className="home__sections">
           <div className="section">
             <Link to="/brasil">
               <div
@@ -36,21 +36,20 @@ function Home() {
           <div className="vertical"></div>
           <div className="section">
             <Link to="/latam">
-               <div
+              <div
                 className="tooltip"
-                title="Evento gratuito en español para discutir los diferentes caminos del mundo de la música
-"
+                title="Evento online para aquellos que quieren llevar su carrera musical al siguiente nivel."
               >
                 <img className="es" src={logoES} alt="semana ONErpm" />
-              </div> 
+              </div>
             </Link>
             <h4>LATAM</h4>
             <span>28.10 - 30-10</span>
             <Link to="/latam" className="btn">
-              Inscríbete
+              Regístrate aquí
             </Link>
           </div>
-        </div> 
+        </div>
       </div>
     </div>
   );

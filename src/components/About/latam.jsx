@@ -9,40 +9,40 @@ function About() {
   return (
     <div className="aboutes">
       <div className="aboutes__container">
-      <img className="aboutes-img" src={aboutimg} alt="o evento" />
+        <img className="aboutes-img" src={aboutimg} alt="o evento" />
         <div className="aboutes__left">
           <p>
-            <b>La Semana ONErpm</b> es un evento online con 3 días llenos de contenido académico
-            presentadas por parte del equipo de <b>ONErpm</b>, aliados comerciales, artistas y gente del
-            medio de la música y el entretenimiento.
+            La <b>Semana ONErpm</b> es un evento online de 3 días llenos de conferencias, pláticas,
+            showcases y master classes presentadas por el equipo de <b>ONErpm</b>, aliados
+            comerciales, artistas, y expertos en la industria de la música y el entretenimiento.
           </p>
           <p>
-            Cubriremos una variedad de temas desde distribución, management, booking, negocios de la
-            música, becas, ecosistema musical y más, por medio de conferencias, talleres y
-            masterclasses con miembros destacados de la industria de la música.
+            Aprende de una <b>variedad de temas</b>: negocios de la música, management,
+            distribución, booking, becas, y ecosistema musical,{' '}
+            <b>de la mano de expertos de la industria musical.</b>
           </p>
           <p>
-            Todos los eventos serán completamente gratuitos y serán transmitidos en nuestros canales
-            y redes sociales.
+            ¿Lo mejor de todo? La Semana ONErpm es <b>completamente gratis</b> y podrás asistir desde la
+            comodidad de tu casa o estudio.
           </p>
         </div>
         <div className="aboutes__right">
           <div className="aboutes__fase">
             <img src={bola} alt="Círculo laranja" />
             <div>
-              <h4>Páneles</h4>
+              <h4>Panel</h4>
             </div>
           </div>
           <div className="aboutes__fase">
             <img src={triangulo} alt="Triângulo rosa" />
             <div>
-              <h4>Charlas y Talleres</h4>
+              <h4>Charla /Taller</h4>
             </div>
           </div>
           <div className="aboutes__fase">
             <img src={quadrado} alt="quadrado azul" />
             <div>
-              <h4>Showcases</h4>
+              <h4>Showcase</h4>
             </div>
           </div>
         </div>

@@ -27,7 +27,7 @@ function Footer() {
       
 
         <div className="footer__realização">
-          <h5>REALIZAÇÃO</h5>
+          <h5>EVENT REALIZADO POR</h5>
           <div className="logos">
             <a href="https://www.onerpm.com/" target="_blank" rel="noopener noreferrer">
               <img className="logo-one" src={logoONE} alt="oneRPM" />
@@ -36,25 +36,26 @@ function Footer() {
           
           <div className="social">
             <a
-              href="https://www.youtube.com/channel/UCEjZPeHi44BbX_g9hfJUlHQ"
+              href="https://www.youtube.com/channel/UCOx3mWPFzMwwfn5h_obJOaw"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Icon width={20} icon={youtubeIcon} />
             </a>
-            <a href="https://www.instagram.com/onerpmlatino/" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/onerpmmx/
+" target="_blank" rel="noopener noreferrer">
               <Icon width={20} icon={instagramIcon} />
             </a>
-            <a href="https://twitter.com/onerpm" target="_blank" rel="noopener noreferrer">
+            <a href="https://twitter.com/onerpmmx" target="_blank" rel="noopener noreferrer">
               <Icon width={20} icon={twitterIcon} />
             </a>
-            <a href="https://www.facebook.com/onerpm" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/onerpmmx" target="_blank" rel="noopener noreferrer">
               <Icon width={20} icon={facebookIcon} />
             </a>
           </div>
         </div>
           <div className="footer__parceiros">
-          <h5>SPONSORS</h5>
+          <h5>NUESTROS PATROCINADORES</h5>
           <div className="logos">
             <img src={logo1} alt="aire libre" />
             <img src={logo2} alt="sae méxico" />
@@ -62,9 +63,10 @@ function Footer() {
           </div>
         </div> 
         <div className="footer__final">
-          <h6>© COPYRIGHT 2020 – ONERPM – TODOS OS DIREITOS RESERVADOS</h6>
+          <h6>© 2020 ONErpm Inc. Todos los derechos reservados.
+</h6>
           <span>
-            CRIADO E DESENVOLVIDO POR {' '}
+           SITIO CREADO POR {' '}
             <a href="https://www.myriankatto.com" target="_blank" rel="noopener noreferrer">
               <b>MYRIAN KATTO</b>
             </a>
