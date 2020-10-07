@@ -64,9 +64,9 @@ function AgendaCard(props) {
                 alt="arrow down"
               /> */}
 
-              <a href={item.calendar} target="_blank" rel="noopener noreferrer">
+              {/* <a href={item.calendar} target="_blank" rel="noopener noreferrer">
                 <img src={addCalendar} alt="add to calendar" />
-              </a>
+              </a> */}
             </div>
           </div>
           {/* {activeIndex === index ? (
