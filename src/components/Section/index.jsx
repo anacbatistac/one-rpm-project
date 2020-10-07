@@ -12,6 +12,9 @@ import banner5 from '../../assets/images/banner5.jpg';
 import banner6 from '../../assets/images/banner6.jpg';
 import banner7 from '../../assets/images/banner7.jpg';
 import banner8 from '../../assets/images/banner8.jpg';
+import banner9 from '../../assets/images/banner9.jpg';
+import banner10 from '../../assets/images/banner10.jpg';
+import banner11 from '../../assets/images/banner11.jpg';
 
 import gif1 from '../../assets/images/FORMAS1.gif';
 import gif2 from '../../assets/images/FORMAS2.gif';
@@ -59,6 +62,15 @@ function Section() {
             </div>
             <div>
               <img src={banner8} alt="Banner ONErpm Academy" />
+            </div>
+            <div>
+              <img src={banner9} alt="Banner ONErpm Academy" />
+            </div>
+            <div>
+              <img src={banner10} alt="Banner ONErpm Academy" />
+            </div>
+            <div>
+              <img src={banner11} alt="Banner ONErpm Academy" />
             </div>
           </Slider>
         </div>
