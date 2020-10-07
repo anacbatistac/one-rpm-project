@@ -10,10 +10,15 @@ function Header() {
   return (
     <div className="header">
       <div className="header__container">
-      <img className='bg' src={formas} alt="formas"/>
+        <img className="bg" src={formas} alt="formas" />
         <img className="logo" src={logoBR} alt="ONErpm Academy" />
-        <img className="data"  src={data} alt="27 e 28 de outubro" />
-        <a href="https://forms.gle/45wBXWeWEFD8tLd56" className="btn">
+        <img className="data" src={data} alt="27 e 28 de outubro" />
+        <a
+          href="https://forms.gle/45wBXWeWEFD8tLd56"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn"
+        >
           Inscreva-se gratuitamente
         </a>
         <Countdown />
