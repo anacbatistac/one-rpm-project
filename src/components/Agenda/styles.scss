@@ -5,6 +5,9 @@
   overflow-x: hidden;
   width: 100vw;
   color: $color-white;
+  &__container {
+    margin: 3em 0;
+  }
 
   &-img {
     width: 20vw;

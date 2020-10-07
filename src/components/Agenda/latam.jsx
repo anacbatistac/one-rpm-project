@@ -30,12 +30,12 @@ function Agenda() {
   }, []);
 
   return (
-    <div className="agendaes">
+    <div className="agenda">
       {/* <img className="wave" src={wave} alt="wave" /> */}
-      <div className="agendaes__container">
-        <img className="agendaes-img" src={agendaimg} alt="agenda" />
+      <div className="agenda__container">
+        <img className="agenda-img" src={agendaimg} alt="agenda" />
 
-        <div className="agendaes__filters">
+        <div className="agenda__filters">
           <div className="data">
             <div className="data-tabs">
               <span

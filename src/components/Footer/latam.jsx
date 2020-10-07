@@ -27,7 +27,7 @@ function Footer() {
       
 
         <div className="footer__realização">
-          <h5>EVENT REALIZADO POR</h5>
+          <h5>EVENTO REALIZADO POR</h5>
           <div className="logos">
             <a href="https://www.onerpm.com/" target="_blank" rel="noopener noreferrer">
               <img className="logo-one" src={logoONE} alt="oneRPM" />
