@@ -1,0 +1,267 @@
+{
+  "dia27": [
+    {
+      "id": 1,
+      "title": "Decifrando os contratos do mercado da música",
+      "person": "Eliane Dias (Boogie Naipe) e Raquel Lemos (Lemos Consultoria e Artis Cultural)",
+      "time": "12:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/1_qgkj0o.png"
+    },
+    {
+      "id": 2,
+      "title": "Workshop da Deezer",
+      "person": "Bernardo Bassin (Deezer)",
+      "time": "12:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082432/fotos/2_jdouvv.png"
+    },
+    {
+      "id": 3,
+      "title": "Nordeste: a ascensão dos gêneros populares no digital",
+      "person": "Julian Lepick (ONErpm) , Felipe Marques (CEO Faz Mídia) e Larissa Almeida ( LA2)",
+      "time": "1:25 PM",
+      "tipo": "Painel",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/3_ryxvwc.png"
+    },
+    {
+      "id": 4,
+      "title": "Como fazer um hit se renovar através dos tempos",
+      "person": "Izabel  Marigo(ONErpm) e Bruno Gouveia (Biquini Cavadão)",
+      "time": "2:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/4_k0dt6o.png"
+    },
+    {
+      "id": 5,
+      "title": "Workshop da Amazon Music",
+      "person": "Gabriel Lupi (Amazon Music)",
+      "time": "2:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/5_s19wse.png"
+    },
+    {
+      "id": 6,
+      "title": "Cruzamento de audiência - estratégias para aumentar a relevância da sua música",
+      "person": "Pedro Caron (Gravadora Novo Tempo) e Beatriz Ferraz (ONErpm)",
+      "time": "3:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/6_imlqft.png"
+    },
+    {
+      "id": 7,
+      "title": "Workshop da Resso ",
+      "person": "Luana Dornelas (Resso)",
+      "time": "3:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/7_pu4xzg.png"
+    },
+    {
+      "id": 8,
+      "title": "Trajetória da ONErpm no mercado global",
+      "person": "Marcio Cruz (ONErpm) e Emmanuel Zunz (ONErpm)",
+      "time": "4:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/8_t4q5yy.png"
+    },
+    {
+      "id": 9,
+      "title": "A melhor forma de exportar o seu trabalho na América Latina",
+      "person": "Sylvie Piccolotto (ONErpm) e Felipe Gonzales (Difusa Fronteira) ",
+      "time": "4:45 PM",
+      "tipo": "Bate Papo",
+      "icon": "triangulo",
+      "fase": ["Intermediário", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/13_kxngnx.png"
+    },
+    {
+      "id": 10,
+      "title": "A era das collabs: para além dos feats ",
+      "person": "Fabiane Pereira (Papo de Música) , Leo Casa 1 (Casa 1 Records / Rap Box) e Alvaro Benevente (Bloom) ",
+      "time": "5:25 PM",
+      "tipo": "Painel",
+      "icon": "triangulo",
+      "fase": ["Intermediário", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/10_takjfc.png"
+    },
+    {
+      "id": 11,
+      "title": "Workshop sobre as principais dúvidas do suporte ",
+      "person": "Bia Paranhos  e Marina Reis (ONErpm)",
+      "time": "6:15 PM",
+      "tipo": "Workshop",
+      "icon": "triangulo",
+      "fase": ["Intermediário", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/11_i0jbr3.png"
+    },
+    {
+      "id": 12,
+      "title": "Gestão financeira: sua importância na carreira artística ",
+      "person": "Arthur Fitzgibbon (ONErpm),Kamilla Fialho (K2L) e Froid (Alaska)",
+      "time": "6:55 PM",
+      "tipo": "Painel",
+      "icon": "bola",
+      "fase": ["Avançado", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082434/fotos/12_v5xm4n.png"
+    },
+    {
+      "id": 13,
+      "title": "Direito autoral e sincronização",
+      "person": "Vanessa Schutt (UBC) e André Agra (ONErpm)",
+      "time": "7:45 PM",
+      "tipo": "Bate Papo",
+      "icon": "bola",
+      "fase": ["Avançado", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/9_difppb.png"
+    }
+  ],
+  "dia28": [
+    {
+      "id": 14,
+      "title": "Estratégias de comunicação para o seu canal no YouTube",
+      "person": "Natalia Julio (YouTube) e Carol Siqueira (Nando Reis)",
+      "time": "12:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082437/fotos/14_tnucqh.png"
+    },
+    {
+      "id": 15,
+      "title": "Lançamento a baixo custo: como fazer e planejar",
+      "person": "Carol Fincatti (ONErpm) , Sebastián (Francisco, el Hombre) e Indy Naíse(Artista)",
+      "time": "12:55 PM",
+      "tipo": "Painel",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/15_jbvrz9.png"
+    },
+    {
+      "id": 16,
+      "title": "Workshop de como artistas podem se conectar com influencers",
+      "person": "Rafael Arty (Squid)",
+      "time": "1:45PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/16_su1ivi.png"
+    },
+    {
+      "id": 17,
+      "title": "Como se conectar com a mídia",
+      "person": "Adriana de Barros (Jornalista) e Caio Corsalette (MTV)",
+      "time": "2:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602005200/ONErpm%20/27_qzkkts.png"
+    },
+    {
+      "id": 18,
+      "title": "TikTok além dos challenges: o que a plataforma oferece para os artistas",
+      "person": "Mayara Bailo (ONErpm) , Roberta Guimarães (TikTok) e MC Bin Laden (Artista)",
+      "time": "2:55 PM",
+      "tipo": "Painel",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/18_tm6xu9.png"
+    },
+    {
+      "id": 19,
+      "title": "Workshop do Twitter",
+      "person":"Joema Martins (Twitter)",
+      "time": "3:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img":"https://res.cloudinary.com/dq4jevckc/image/upload/v1602101985/fotos/19_oucvda.png"
+    },
+    {
+      "id": 20,
+      "title": "Construindo um planejamento de comunicação ",
+      "person": "Julio Salinas (Seta Reta) e Stephanie Aguiar (ONErpm)",
+      "time": "4:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/20_bkbrt6.png"
+    },
+    {
+      "id": 21,
+      "title": "Workshop de como usar o Instagram Reels para divulgar a sua música",
+      "person": "Luiz Garcia (Facebook)",
+      "time": "4:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": ""
+    },
+
+    {
+      "id": 22,
+      "title": "Da pré-produção à divulgação de videoclipes",
+      "person": " Fernando Hiro (Dezcarga) e Kika Simões (SB Music)",
+      "time": "5:15 PM",
+      "tipo": "Bate Papo",
+      "icon": "triangulo",
+      "fase": ["Intermediário", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/22_e6gjyj.png"
+    },
+    {
+      "id": 23,
+      "title": "Desenvolvendo estratégias criativas para um lançamento ",
+      "person": "Gisela Alves (ONErpm) e Hélio Fernandes (Azo Digital)",
+      "time": "5:45 PM",
+      "tipo": "Bate Papo",
+      "icon": "triangulo",
+      "fase": ["Intermediário", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082437/fotos/23_rt73k1.png"
+    },
+    {
+      "id": 24,
+      "title": "Workshop sobre carreiras e investimentos",
+      "person": "Talita Zioli (Sonora Digital)",
+      "time": "6:15 PM",
+      "tipo": "Workshop",
+      "icon": "triangulo",
+      "fase": ["Intermediário", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602005200/ONErpm%20/27_qzkkts.png"
+    },
+    {
+      "id": 25,
+      "title": "Dados: entenda os números e conheça a sua audiência",
+      "person": "Iasmine Amazonas (ONErpm), Thatiana Victorelli  (ONErpm) e Juliano Polimeno (Playax)",
+      "time": "6:55 PM",
+      "tipo": "Painel",
+      "icon": "bola",
+      "fase": ["Avançado", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602090702/fotos/25_x9c8hw.png"
+    },
+    {
+      "id": 26,
+      "title": "A relação de artistas e marcas no mundo da música",
+      "person": "Gustavo Giglio (Omelete Company) e Thiessa Torres (ONErpm)",
+      "time": "7:45 PM",
+      "tipo": "Bate Papo",
+      "icon": "bola",
+      "fase": ["Avançado", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602090702/fotos/26_ff3klz.png"
+    }
+  ]
+}

@@ -8,7 +8,8 @@
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/1_qgkj0o.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/1_qgkj0o.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+decifrando+os+contratos+do+mercado+da+m%C3%BAsica&details=Eliane+Dias+%28Boogie+Naipe%29+e+Raquel+Lemos+%28Lemos+Consultoria+e+Artis+Cultural%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201027T151500Z%2F20201027T154500Z"
     },
     {
       "id": 2,
@@ -18,27 +19,30 @@
       "tipo": "Workshop",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082432/fotos/2_jdouvv.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082432/fotos/2_jdouvv.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+da+Deezer&details=Bernardo+Bassin+%28Deezer%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201027T154500Z%2F20201027T162500Z"
     },
     {
       "id": 3,
       "title": "Nordeste: a ascensão dos gêneros populares no digital",
-      "person": "Julian Lepick (ONErpm) , Felipe Marques (CEO Faz Mídia) e Larissa Almeida ( LA2)",
+      "person": "Julian Lepick (ONErpm), Felipe Marques (CEO Faz Mídia) e Larissa Almeida (LA2)",
       "time": "1:25 PM",
       "tipo": "Painel",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/3_ryxvwc.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/3_ryxvwc.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Nordeste%2C+a+ascens%C3%A3o+dos+g%C3%AAneros+populares+no+digital&details=Julian+Lepick+%28ONErpm%29+%2C+Felipe+Marques+%28CEO+Faz+M%C3%ADdia%29+e+Larissa+Almeida+%28LA2%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201027T162500Z%2F20201027T170000Z"
     },
     {
       "id": 4,
       "title": "Como fazer um hit se renovar através dos tempos",
-      "person": "Izabel  Marigo(ONErpm) e Bruno Gouveia (Biquini Cavadão)",
+      "person": "Izabel  Marigo (ONErpm) e Bruno Gouveia (Biquini Cavadão)",
       "time": "2:15 PM",
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/4_k0dt6o.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/4_k0dt6o.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+como+fazer+um+hit+se+renovar+atrav%C3%A9s+dos+tempos&details=Izabel++Marigo+%28ONErpm%29+e+Bruno+Gouveia+%28Biquini+Cavad%C3%A3o%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201027T171500Z%2F20201027T174500Z"
     },
     {
       "id": 5,
@@ -48,7 +52,8 @@
       "tipo": "Workshop",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/5_s19wse.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/5_s19wse.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+da+Amazon+Music&details=Gabriel+Lupi+%28Amazon+Music%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201027T174500Z%2F20201027T181500Z"
     },
     {
       "id": 6,
@@ -58,7 +63,8 @@
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/6_imlqft.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/6_imlqft.png",
+      "evento": "https://calendar.google.com/calendar/u/0/r/eventedit?text=ONErpm+Academy:+cruzamento+de+audi%C3%AAncia+-+estrat%C3%A9gias+para+aumentar+a+relev%C3%A2ncia+da+sua+m%C3%BAsica&details=Pedro+Caron+(Gravadora+Novo+Tempo)+e+Beatriz+Ferraz+(ONErpm)&location=https://www.youtube.com/onerpmtv&dates=20201027T181500Z/20201027T184500Z"
     },
     {
       "id": 7,
@@ -68,7 +74,8 @@
       "tipo": "Workshop",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/7_pu4xzg.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/7_pu4xzg.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+da+Resso&details=Luana+Dornelas+%28Resso%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201027T184500Z%2F20201027T191500Z"
     },
     {
       "id": 8,
@@ -78,7 +85,8 @@
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/8_t4q5yy.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/8_t4q5yy.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Trajet%C3%B3ria+da+ONErpm+no+mercado+global&details=Com+a+presen%C3%A7a+do+CEO+da+ONErpm%2C+Emmanuel+Zunz+e+M%C3%A1rcio+Cruz%2C+Diretor+Global+de+Aprendizagem+e+Desenvolvimento&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201027T191500Z%2F20201027T194500Z"
     },
     {
       "id": 9,
@@ -88,37 +96,41 @@
       "tipo": "Bate Papo",
       "icon": "triangulo",
       "fase": ["Intermediário", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/13_kxngnx.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/13_kxngnx.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+A+melhor+forma+de+exportar+o+seu+trabalho+na+Am%C3%A9rica+Latina&details=Com+a+presen%C3%A7a+de+Sylvie+Piccolotto+%28ONErpm%29+e+Felipe+Gonzales+%28Difusa+Fronteira%29&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201027T194500Z%2F20201027T202500Z"
     },
     {
       "id": 10,
       "title": "A era das collabs: para além dos feats ",
-      "person": "Fabiane Pereira (Papo de Música) , Leo Casa 1 (Casa 1 Records / Rap Box) e Alvaro Benevente (Bloom) ",
+      "person": "Fabiane Pereira (Papo de Música), Leo Casa 1 (Casa 1 Records / Rap Box) e Alvaro Benevente (Bloom) ",
       "time": "5:25 PM",
       "tipo": "Painel",
       "icon": "triangulo",
       "fase": ["Intermediário", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/10_takjfc.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/10_takjfc.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+A+era+das+collabs%2C+para+al%C3%A9m+dos+feats&details=Com+Fabiane+Pereira+%28Papo+de+M%C3%BAsica%29+%2C+Leo+Casa+1+%28Casa+1+Records+%2F+Rap+Box%29+e+Alvaro+Benevente+%28Bloom%29&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201027T202500Z%2F20201027T211500Z"
     },
     {
       "id": 11,
       "title": "Workshop sobre as principais dúvidas do suporte ",
-      "person": "Bia Paranhos  e Marina Reis (ONErpm)",
+      "person": "Bia Paranhos e Marina Reis (ONErpm)",
       "time": "6:15 PM",
       "tipo": "Workshop",
       "icon": "triangulo",
       "fase": ["Intermediário", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/11_i0jbr3.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/11_i0jbr3.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+sobre+as+principais+d%C3%BAvidas+do+suporte&details=Com+Beatriz+Paranhos%2C+da+ONErpm+e+a+nossa+Gerente+de+Opera%C3%A7%C3%B5es+Marina+Reis&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201027T211500Z%2F20201027T214500Z"
     },
     {
       "id": 12,
       "title": "Gestão financeira: sua importância na carreira artística ",
-      "person": "Arthur Fitzgibbon (ONErpm),Kamilla Fialho (K2L) e Froid (Alaska)",
+      "person": "Arthur Fitzgibbon (ONErpm), Kamilla Fialho (K2L) e Froid (Alaska)",
       "time": "6:55 PM",
       "tipo": "Painel",
       "icon": "bola",
       "fase": ["Avançado", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082434/fotos/12_v5xm4n.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082434/fotos/12_v5xm4n.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Gest%C3%A3o+financeira%2C+sua+import%C3%A2ncia+na+carreira+art%C3%ADstica&details=Com+a+presen%C3%A7a+do+presidente+da+ONErpm%2C+Arthur+Fitzgibbon%2C+com+os+convidados+especiais+Kamilla+Fialho%2C+da+K2L+e+o+cantor+Froid&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201027T215500Z%2F20201027T224500Z"
     },
     {
       "id": 13,
@@ -128,7 +140,8 @@
       "tipo": "Bate Papo",
       "icon": "bola",
       "fase": ["Avançado", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/9_difppb.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082433/fotos/9_difppb.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Direito+autoral+e+sincroniza%C3%A7%C3%A3o&details=Com+a+presen%C3%A7a+do+COO+da+ONErpm%2C+Andr%C3%A9+Agra+e%0AVanessa+Schutt%2C+da+UBC.&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201027T224500Z%2F20201027T232500Z"
     }
   ],
   "dia28": [
@@ -140,17 +153,19 @@
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082437/fotos/14_tnucqh.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082437/fotos/14_tnucqh.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Estrat%C3%A9gias+de+comunica%C3%A7%C3%A3o+para+o+seu+canal+no+YouTube&details=Natalia+Julio+%28YouTube%29+e+Carol+Siqueira+%28Nando+Reis%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T151500Z%2F20201028T155500Z"
     },
     {
       "id": 15,
       "title": "Lançamento a baixo custo: como fazer e planejar",
-      "person": "Carol Fincatti (ONErpm) , Sebastián (Francisco, el Hombre) e Indy Naíse(Artista)",
+      "person": "Carol Fincatti (ONErpm), Sebastián (Francisco, el Hombre) e Indy Naíse (Artista)",
       "time": "12:55 PM",
       "tipo": "Painel",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/15_jbvrz9.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/15_jbvrz9.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Lan%C3%A7amento+a+baixo+custo%3A+como+fazer+e+planejar&details=Carol+Fincatti+%28ONErpm%29+%2C+Sebasti%C3%A1n+%28Francisco%2C+el+Hombre%29+e+Indy+Na%C3%ADse%28Artista%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T155500Z%2F20201028T164500Z"
     },
     {
       "id": 16,
@@ -160,7 +175,8 @@
       "tipo": "Workshop",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/16_su1ivi.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082435/fotos/16_su1ivi.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+de+como+artistas+podem+se+conectar+com+influencers&details=Rafael+Arty+%28Squid%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T164500Z%2F20201028T171500Z"
     },
     {
       "id": 17,
@@ -170,19 +186,31 @@
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602005200/ONErpm%20/27_qzkkts.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602109911/fotos/17_ejsyv6.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Como+se+conectar+com+a+m%C3%ADdia&details=Adriana+de+Barros+%28Jornalista%29+e+Caio+Corsalette+%28MTV%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T171500Z%2F20201028T175500Z"
     },
     {
       "id": 18,
       "title": "TikTok além dos challenges: o que a plataforma oferece para os artistas",
-      "person": "Mayara Bailo (ONErpm) , Roberta Guimarães (TikTok) e MC Bin Laden (Artista)",
+      "person": "Mayara Bailo (ONErpm), Roberta Guimarães (TikTok) e MC Bin Laden (Artista)",
       "time": "2:55 PM",
       "tipo": "Painel",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/18_tm6xu9.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/18_tm6xu9.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+TikTok+al%C3%A9m+dos+challenges%3A+o+que+a+plataforma+oferece+para+os+artistas&details=Mayara+Bailo+%28ONErpm%29+%2C+Roberta+Guimar%C3%A3es+%28TikTok%29+e+MC+Bin+Laden+%28Artista%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T175500Z%2F20201028T184500Z"
     },
-
+    {
+      "id": 19,
+      "title": "Workshop do Twitter",
+      "person": "Joema Martins (Twitter)",
+      "time": "3:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602101985/fotos/19_oucvda.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+do+Twitter&details=Joema+Martins+%28Twitter%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T184500Z%2F20201028T191500Z"
+    },
     {
       "id": 20,
       "title": "Construindo um planejamento de comunicação ",
@@ -191,18 +219,30 @@
       "tipo": "Bate Papo",
       "icon": "quadrado",
       "fase": ["Básico", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/20_bkbrt6.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/20_bkbrt6.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Construindo+um+planejamento+de+comunica%C3%A7%C3%A3o&details=Com+Julio+Salinas+%28Seta+Reta%29+e+Stephanie+Aguiar+%28ONErpm%29&location=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCEjZPeHi44BbX_g9hfJUlHQ&dates=20201028T191500Z%2F20201028T194500Z"
     },
-
+    {
+      "id": 21,
+      "title": "Workshop de como usar o Instagram Reels para divulgar a sua música ",
+      "person": "Luiz Garcia (Facebook)",
+      "time": "4:45 PM",
+      "tipo": "Workshop",
+      "icon": "quadrado",
+      "fase": ["Básico", "Todos"],
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602005200/ONErpm%20/27_qzkkts.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+de+como+usar+o+Instagram+Reels+para+divulgar+a+sua+m%C3%BAsica&details=Luiz+Garcia+%28Facebook%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T194500Z%2F20201028T201500Z"
+    },
     {
       "id": 22,
       "title": "Da pré-produção à divulgação de videoclipes",
-      "person": " Fernando Hiro (Dezcarga) e Kika Simões (SB Music)",
+      "person": "Fernando Hiro (Dezcarga) e Kika Simões (SB Music)",
       "time": "5:15 PM",
       "tipo": "Bate Papo",
       "icon": "triangulo",
       "fase": ["Intermediário", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/22_e6gjyj.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082436/fotos/22_e6gjyj.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Da+pr%C3%A9-produ%C3%A7%C3%A3o+%C3%A0+divulga%C3%A7%C3%A3o+de+videoclipes&details=Fernando+Hiro+%28Dezcarga%29+e+Kika+Sim%C3%B5es+%28SB+Music%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T201500Z%2F20201028T204500Z"
     },
     {
       "id": 23,
@@ -212,7 +252,8 @@
       "tipo": "Bate Papo",
       "icon": "triangulo",
       "fase": ["Intermediário", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082437/fotos/23_rt73k1.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602082437/fotos/23_rt73k1.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Desenvolvendo+estrat%C3%A9gias+criativas+para+um+lan%C3%A7amento&details=Com+Gisela+Alves%2C+Project+Manager+de+Urbano+da+ONErpm+e+H%C3%A9lio+Fernandes%2C+da+Azo+Digital&location=https%3A%2F%2Fwww.youtube.com%2Fc%2FONErpmTV%2Ffeatured&dates=20201028T204500Z%2F20201028T211500Z"
     },
     {
       "id": 24,
@@ -222,17 +263,19 @@
       "tipo": "Workshop",
       "icon": "triangulo",
       "fase": ["Intermediário", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602005200/ONErpm%20/27_qzkkts.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602005200/ONErpm%20/27_qzkkts.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Workshop+sobre+carreiras+e+investimentos&details=Com+Talita+Zioli+%28Sonora+Digital%29&location=https%3A%2F%2Fwww.youtube.com%2Fc%2FONErpmTV%2Ffeatured&dates=20201028T211500Z%2F20201028T215500Z"
     },
     {
       "id": 25,
       "title": "Dados: entenda os números e conheça a sua audiência",
-      "person": "Iasmine Amazonas (ONErpm), Thatiana Victorelli  (ONErpm) e Juliano Polimeno (Playax)",
+      "person": "Iasmine Amazonas (ONErpm), Thatiana Victorelli (ONErpm) e Juliano Polimeno (Playax)",
       "time": "6:55 PM",
       "tipo": "Painel",
       "icon": "bola",
       "fase": ["Avançado", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602090702/fotos/25_x9c8hw.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602090702/fotos/25_x9c8hw.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+Dados%3A+entenda+os+n%C3%BAmeros+e+conhe%C3%A7a+a+sua+audi%C3%AAncia&details=Com+a+presen%C3%A7a+de+Iasmine+Amazonas+%28ONErpm%29%2C+Thatiana+Victorelli+%28ONErpm%29+e+Juliano+Polimeno+%28Playax%29&location=https%3A%2F%2Fwww.youtube.com%2Fonerpmtv&dates=20201028T215500Z%2F20201028T224500Z"
     },
     {
       "id": 26,
@@ -242,7 +285,8 @@
       "tipo": "Bate Papo",
       "icon": "bola",
       "fase": ["Avançado", "Todos"],
-      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602090702/fotos/26_ff3klz.png"
+      "img": "https://res.cloudinary.com/dq4jevckc/image/upload/v1602090702/fotos/26_ff3klz.png",
+      "evento": "https://www.google.com/calendar/render?action=TEMPLATE&text=ONErpm+Academy%3A+A+rela%C3%A7%C3%A3o+de+artistas+e+marcas+no+mundo+da+m%C3%BAsica&details=Com+a+presen%C3%A7a+do+Gustavo+Giglio+%28Omelete+Company%29+e+Thiessa+Torres+%28ONErpm%29&location=https%3A%2F%2Fwww.youtube.com%2Fuser%2FONErpmTV&dates=20201028T224500Z%2F20201028T232500Z"
     }
   ]
 }
