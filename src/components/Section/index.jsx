@@ -16,6 +16,7 @@ import banner9 from '../../assets/images/banner9.jpg';
 import banner10 from '../../assets/images/banner10.jpg';
 import banner11 from '../../assets/images/banner11.jpg';
 import banner12 from '../../assets/images/banner12.jpg';
+import banner13 from '../../assets/images/banner13.jpg';
 
 import gif1 from '../../assets/images/FORMAS1.gif';
 import gif2 from '../../assets/images/FORMAS2.gif';
@@ -75,6 +76,9 @@ function Section() {
             </div>
             <div>
               <img src={banner12} alt="Banner ONErpm Academy" />
+            </div>
+            <div>
+              <img src={banner13} alt="Banner ONErpm Academy" />
             </div>
           </Slider>
         </div>
