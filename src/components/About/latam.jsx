@@ -7,10 +7,10 @@ import quadrado from '../../assets/images/quadrado.png';
 import './styles.scss';
 function About() {
   return (
-    <div className="aboutes">
-      <div className="aboutes__container">
-        <img className="aboutes-img" src={aboutimg} alt="o evento" />
-        <div className="aboutes__left">
+    <div className="about">
+        <img className="about-img" src={aboutimg} alt="o evento" />
+      <div className="about__container">
+        <div className="about__left">
           <p>
             La <b>Semana ONErpm</b> es un evento online de 3 días llenos de conferencias, pláticas,
             showcases y master classes presentadas por el equipo de <b>ONErpm</b>, aliados
@@ -26,20 +26,20 @@ function About() {
             comodidad de tu casa o estudio.
           </p>
         </div>
-        <div className="aboutes__right">
-          <div className="aboutes__fase">
+        <div className="about__right">
+          <div className="about__fase">
             <img src={bola} alt="Círculo laranja" />
             <div>
               <h4>Panel</h4>
             </div>
           </div>
-          <div className="aboutes__fase">
+          <div className="about__fase">
             <img src={triangulo} alt="Triângulo rosa" />
             <div>
               <h4>Charla /Taller</h4>
             </div>
           </div>
-          <div className="aboutes__fase">
+          <div className="about__fase">
             <img src={quadrado} alt="quadrado azul" />
             <div>
               <h4>Showcase</h4>

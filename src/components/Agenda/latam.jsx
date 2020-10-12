@@ -33,7 +33,7 @@ function Agenda() {
     <div className="agenda">
       {/* <img className="wave" src={wave} alt="wave" /> */}
       <div className="agenda__container">
-        <img className="agenda-img" src={agendaimg} alt="agenda" />
+        <img className="agenda-img" style={{marginTop:"5em"}} src={agendaimg} alt="agenda" />
 
         <div className="agenda__filters">
           <div className="data">

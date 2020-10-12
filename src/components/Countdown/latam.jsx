@@ -41,7 +41,7 @@ export default class Countdown extends React.Component {
         <div className="countdown__wrapper">
           <div className="countdown__item">
             {days}
-            <span>dias</span>
+            <span>días</span>
           </div>
           <img src={dots} alt="two dots"/>
           <div className="countdown__item">
