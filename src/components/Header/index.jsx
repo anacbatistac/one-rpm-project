@@ -14,14 +14,15 @@ function Header() {
         <img className="logo" src={logoBR} alt="ONErpm Academy" />
         <img className="data" src={data} alt="27 e 28 de outubro" />
         <a
-          href="https://forms.gle/45wBXWeWEFD8tLd56"
+          style={{ marginTop: '6em' }}
+          href="https://www.youtube.com/watch?v=J-SL8zVaBtE"
           target="_blank"
           rel="noopener noreferrer"
           className="btn"
         >
-          Inscreva-se gratuitamente
+          Entre e acompanhe o Evento ao vivo
         </a>
-        <Countdown />
+        {/* <Countdown /> */}
       </div>
     </div>
   );

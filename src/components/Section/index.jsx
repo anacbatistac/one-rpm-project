@@ -33,7 +33,7 @@ function Section() {
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 5000,
-    cssEase: "linear"
+    cssEase: 'linear',
   };
 
   return (
@@ -106,8 +106,13 @@ function Section() {
           </div>
         </div>
         <div className="section__button">
-          <a href="https://forms.gle/45wBXWeWEFD8tLd56" className="btn" target="_blank" rel="noopener noreferrer">
-            Inscreva-se gratuitamente
+          <a
+            href="https://www.youtube.com/watch?v=J-SL8zVaBtE"
+            className="btn"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Entre e acompanhe o Evento ao vivo
           </a>
         </div>
       </div>
