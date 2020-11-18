@@ -5,7 +5,6 @@ import agendaimg from '../../assets/images/agenda-es.png';
 
 import Dia28 from '../Dia28/latam';
 import Dia29 from '../Dia29/latam';
-import Dia30 from '../Dia30/latam';
 
 import agendaData from '../../data/agenda.json';
 
@@ -46,7 +45,7 @@ function Agenda() {
                 }}
                 value="dia28"
               >
-                28/10
+                1/12
               </span>
               <span
                 className={filter === 'dia29' ? 'active' : ''}
@@ -56,7 +55,7 @@ function Agenda() {
                 }}
                 value="dia29"
               >
-                29/10
+                2/12
               </span>
               <span
                 className={filter === 'dia30' ? 'active' : ''}
@@ -66,20 +65,7 @@ function Agenda() {
                 }}
                 value="dia30"
               >
-                30/10
-              </span>
-            </div>
-            <div className="fase-tabs">
-              <label>
-                <input
-                  type="radio"
-                  className=""
-                  value="Todos"
-                  checked={isChecked === 'Todos'}
-                  onChange={(e) => setIsChecked(e.target.value)}
-                />
-                <span>Todos</span>
-              </label>
+           
 
               <label>
                 <input
@@ -117,7 +103,7 @@ function Agenda() {
 
             {filter === 'dia28' && <Dia28 checked={isChecked} />}
             {filter === 'dia29' && <Dia29 checked={isChecked} />}
-            {filter === 'dia30' && <Dia30 checked={isChecked} />}
+         
           </div>
         </div>
       </div>
