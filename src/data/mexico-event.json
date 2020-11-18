@@ -2,226 +2,187 @@
   "dia28": [
     {
       "id": 1,
-      "title": "Emmanuel Zunz CEO ONErpm:",
-      "subtitle": "Una década de evolución en la industria de la música",
-      "time": "12:00 AM",
-      "event": "https://www.google.com/calendar/render?action=TEMPLATE&text=Emmanuel+Zunz+CEO+ONErpm%3A&details=Una+d%C3%A9cada+de+evoluci%C3%B3n+en+la+industria+de+la+m%C3%BAsica&location=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCOx3mWPFzMwwfn5h_obJOaw&dates=20201028T150000Z%2F20201028T153000Z",
+      "title": "Una década de evolución en la industria de la música:",
+      "subtitle": "Miguel Saínz Country Manager ONErpm México",
+      "people": "Presentado por ONErpm",
+      "time": "12:00",
       "tipo": ["Charla / Taller", "Todos"],
       "icon": "triangulo",
       "color": "#FF42A8"
     },
     {
       "id": 2,
-      "title": "Showcase ",
-      "subtitle": "TBC",
-      "time": "12:30 AM",
-      "tipo": ["Showcase", "Todos"],
-      "icon": "quadrado",
-
-      "color": "#0091F1"
+      "title": "¿Cómo internacionalizar tu proyecto?",
+      "subtitle": "Invitados: Carlos Jean, Andrés Lopez, Eduardo Fauquie",
+       "people": "Presentado por Prisa Música",
+      "time": "12:30",
+      "tipo": ["Panel", "Todos"],
+      "icon": "bola",
+      "color": "#FF7A3C"
     },
     {
       "id": 3,
-      "title": "Presented by Nación Hip Hop",
-      "subtitle": "Hip Hop en LATAM",
-      "people": "Invitados:\nHector Eli, Diana Avella, Julia Toporek, Omega El CTM\n",
-      "time": "01:30 PM",
-      "tipo": ["Panel", "Todos"],
-      "icon": "bola",
-      "color": "#FF7A3C"
+      "title": "Redes Sociales y tus lanzamientos",
+      "subtitle": "Invitados: Ana Gallo, Catalina Duarte",
+      "people": "Presentado por ONErpm",
+      "time": "13:30",
+      "tipo": ["Charla / Taller", "Todos"],
+      "icon": "triangulo",
+      "color": "#FF42A8"
     },
     {
       "id": 4,
-      "title": "Presented by Roland:",
-      "subtitle": "Beatmaking Camp con Bicho Blanco",
-      "time": "02:30 PM",
-      "tipo": ["Charla / Taller", "Todos"],
-      "icon": "triangulo",
-      "color": "#FF42A8"
-    },
-    {
-      "id": 5,
-      "title": "Showcase ",
-      "subtitle": "Rich Vagos (25 min)",
-      "people": "TBC",
-      "time": "03:00 PM",
-      "tipo": ["Showcase", "Todos"],
-      "icon": "quadrado",
-
-      "color": "#0091F1"
-    },
-    {
-      "id": 6,
-      "title": "Presented by YOUTUBE:",
-      "subtitle": "TBC",
-      "time": "TBC",
-      "tipo": ["Charla / Taller", "Todos"],
-      "icon": "triangulo",
-      "color": "#FF42A8"
-    },
-    {
-      "id": 7,
-      "title": "Presented by ONErpm",
-      "subtitle": "¿Cómo romper fronteras con mi música?",
-      "people": "Invitados:\nMariana Franco, Carlos Jean (Ogilvy), Eduardo Fauquié, Andrés López\n",
-      "time": "05:00 PM",
+      "title": "Hablemos de Hip Hop",
+      "subtitle": "Invitados: Diana Avella, Julia Toporek, Hector Elí, Omega el CTM",
+      "people": "Presentado por Nación Hip Hop",
+      "time": "14:00",
       "tipo": ["Panel", "Todos"],
       "icon": "bola",
       "color": "#FF7A3C"
+    },
+    {
+      "id": 5,
+      "title": "Roland Beatmaking camp",
+      "subtitle": "Presentado por Bicho Blanco",
+      "time": "15:00",
+      "tipo": ["Charla / Taller", "Todos"],
+      "icon": "triangulo",
+      "color": "#FF42A8"
+    },
+    {
+      "id": 6,
+      "title": "La Evolución del Hip Hop",
+      "subtitle": "Invitados: Gera Mx, Neto Reyno, Adán Cruz, Alí Masare",
+      "people": "Presentado por Nación Hip Hop",
+      "time": "16:00",
+      "tipo": ["Panel", "Todos"],
+      "icon": "bola",
+      "color": "#FF7A3C"
+    },
+    {
+      "id": 7,
+      "title": "Showcase Desert Niños",
+      "time": "16:50",
+      "tipo": ["Showcase", "Todos"],
+      "icon": "quadrado",
+      "color": "#0091F1"
+    }
+    {
+      "id": 8,
+      "title": "TikTok como herramienta de promoción musical",
+      "subtitle": "Invitados LÚA",
+      "people": "Presentado por TikTok",
+      "time": "17:00",
+      "tipo": ["Charla / Taller", "Todos"],
+      "icon": "triangulo",
+      "color": "#FF42A8"
+    }
+{
+      "id": 9,
+      "title": "Showcase La Original Banda el Limón",
+      "time": "17:30",
+      "tipo": ["Showcase", "Todos"],
+      "icon": "quadrado",
+      "color": "#0091F1"
     }
   ],
   "dia29": [
     {
-      "id": 8,
-      "title": "Redes Sociales como plataforma de marketing\n",
-      "subtitle": "Ana Gallo, Catalina Duarte\n",
-      "time": "12:00 AM",
-      "tipo": ["Charla / Taller", "Todos"],
-      "icon": "triangulo",
-      "color": "#FF42A8"
-    },
-    {
-      "id": 9,
-      "title": "Presented by ONErpm",
-      "subtitle": "El futuro del regional mexicano",
-      "people": "TBC",
-      "time": "12:30 AM",
-      "tipo": ["Panel", "Todos"],
-      "icon": "bola",
-      "color": "#FF7A3C"
-    },
-    {
       "id": 10,
-      "title": "Mariachi contemporáneo",
-      "subtitle": "TBC\n",
-      "time": "02:00 PM",
+      "title": "Anatomía de un buen deal musical",
+      "subtitle": "Invitado: Diego Maldonado",
+      "people": "Presentado por ONErpm Sync",
+      "time": "12:00",
       "tipo": ["Charla / Taller", "Todos"],
       "icon": "triangulo",
       "color": "#FF42A8"
     },
     {
       "id": 11,
-      "title": "Cápsula",
-      "subtitle": "Testimonios",
-      "time": "02:30 PM",
-      "tipo": ["Charla / Taller", "Todos"],      "icon": "triangulo",
-
-      "color": "#FF42A8"
-    },
-    {
-      "id": 12,
-      "title": "Showcase",
-      "people": "Bloque 1: LMT (25 min)\nBloque 2: LOBEL (25 min)",
-      "time": "03:00 PM",
-      "tipo": ["Showcase", "Todos"],
-      "icon": "quadrado",
-
-      "color": "#0091F1"
-    },
-    {
-      "id": 13,
-      "title": "Cápsula",
-      "subtitle": "Testimonios",
-      "time": "04:30 PM",
+      "title": "Retos mas grandes de las Relaciones Públicas",
+      "subtitle": "Invitados: Ana Cuartas y Malfi Dorantes",
+      "people": "Presentado por SAE México",
+      "time": "12:30",
       "tipo": ["Charla / Taller", "Todos"],
       "icon": "triangulo",
       "color": "#FF42A8"
     },
     {
-      "id": 14,
-      "title": "Presented by El Foro",
-      "subtitle": "Conciertos digitales D.C.\n",
-      "people": "Invitados:\nSebastián Franco, César Coronado, Sergio Tijerina, Rappi TBC\n",
-      "time": "05:00 PM",
+      "id": 12,
+      "title": "El Futuro del Regional Mexicano",
+      "subtitle": "Invitados: Chuco Rincón, José Luís Marín, José Luis El Zorry",
+      "people": "Presentado por Diverge",
+      "time": "13:30",
       "tipo": ["Panel", "Todos"],
       "icon": "bola",
       "color": "#FF7A3C"
-    }
-  ],
-  "dia30": [
+    },
+    {
+      "id": 13,
+      "title": "Showcase LMT/Nora González",
+      "time": "14:30",
+      "tipo": ["Showcase", "Todos"],
+      "icon": "quadrado",
+      "color": "#0091F1"
+    },
+    {
+      "id": 14,
+      "title": "Facebook y sus herramientas musicales",
+      "subtitle": "Invitado: Dstance",
+      "people": "Presentado por Facebook",
+      "time": "14:40",
+      "tipo": ["Charla / Taller", "Todos"],
+      "icon": "triangulo",
+      "color": "#FF42A8"
+    },
     {
       "id": 15,
-      "title": "Licensing VS Label Deals",
-      "subtitle": "Diego Maldonado",
-      "time": "12:00 AM",
+      "title": "A&R en el mundo digital",
+      "subtitle": "Invitados: Juan Muro, Jorge Navarro",
+      "people": "Presentado por SAE México",
+      "time": "15:40",
       "tipo": ["Charla / Taller", "Todos"],
       "icon": "triangulo",
       "color": "#FF42A8"
     },
     {
       "id": 16,
-      "title": "Cápsula",
-      "subtitle": "Testimonios",
-      "time": "12:30 AM",
-      "tipo": ["Charla / Taller", "Todos"],
-      "icon": "triangulo",
-      "color": "#FF42A8"
-    },
+      "title": "La Otra Música",
+      "subtitle": "Invitados: Moni Saldaña, Febe Esquerra, Israel Ramírez, Martín Delgado, Wenceslao Bruciaga",
+      "people": "Presentado por Aire Libre",
+      "time": "16:30",
+      "tipo": ["Panel", "Todos"],
+      "icon": "bola",
+      "color": "#FF7A3C"
+    }
     {
       "id": 17,
-      "title": "Presented by ONErpm:",
-      "subtitle": "Publishing en la era digital",
-      "people": "Invitados: TBC",
-      "time": "01:00 PM",
-      "tipo": ["Panel", "Todos"],
-      "icon": "bola",
-      "color": "#FF7A3C"
-    },
-    {
-      "id": 18,
-      "title": "Presented by Tik Tok & Fit Dance:",
-      "subtitle": "El poder el influencer",
-      "time": "02:30 PM",
-      "tipo": ["Charla / Taller", "Todos"],
-      "icon": "triangulo",
-      "color": "#FF42A8"
-    },
-    {
-      "id": 19,
-      "title": "Presented by Aire Libre",
-      "subtitle": "Panel La Otra Música",
-      "people": "Invitados: Moni Saldaña, Martín Delgado, Israel Ramirez, Febe Esquerra, Wenceslao Bruciaga\n",
-      "time": "03:00 PM",
-      "tipo": ["Panel", "Todos"],
-      "icon": "bola",
-      "color": "#FF7A3C"
-    },
-    {
-      "id": 20,
-      "title": "Cápsula",
-      "subtitle": "Testimonios",
-      "time": "04:30 PM",
-      "tipo": ["Charla / Taller", "Todos"],
-      "icon": "triangulo",
-      "color": "#FF42A8"
-    },
-    {
-      "id": 21,
-      "title": "Charla Aire Libre",
-      "subtitle": "Streaming vs Radio",
-      "time": "05:00 PM",
-      "tipo": ["Panel", "Todos"],
-      "icon": "bola",
-
-      "color": "#FF7A3C"
-    },
-    {
-      "id": 22,
-      "title": "Presented by El Foro",
-      "people": "Showcase Demo: HS, GS, Odisseo, Technicolor, Camilo 7º\n",
-      "time": "05:30 PM",
-      "tipo": ["Panel", "Todos"],
-      "icon": "bola",
-      "color": "#FF7A3C"
-    },
-    {
-      "id": 23,
-      "title": "Dj Set/showcase",
-      "time": "06:00 PM",
+      "title": "Showcase La Otra Música",
+      "subtitle": "Invitados: Super Silver Haze, El Torso Corso, El Shirota",
+      "people": "Presentado por Aire Libre",
+      "time": "16:50",
       "tipo": ["Showcase", "Todos"],
       "icon": "quadrado",
-
       "color": "#0091F1"
     }
-  ]
+{
+      "id": 18,
+      "title": "Youtube para crecer tu negocio musical",
+      "subtitle": "Invitados: Andrea Barbosa, Daniél, Me Estás Matando,",
+      "people": "Presentado por Youtube Music",
+      "time": "17:45",
+      "tipo": ["Charla / Taller", "Todos"],
+      "icon": "triangulo",
+      "color": "#FF42A8"
+    }
+{
+      "id": 19,
+      "title": "Roland Dj Set",
+      "subtitle": "Invitados: Lucia Haze",
+      "time": "18:30",
+      "tipo": ["Showcase", "Todos"],
+      "icon": "quadrado",
+      "color": "#0091F1"
+    }
+  ],
 }
